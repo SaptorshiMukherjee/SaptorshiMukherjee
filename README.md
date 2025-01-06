@@ -1,18 +1,11 @@
-<!-- # 💫 About Me:
-Hi, I'm Saptorshi Mukherjee, a tech enthusiast and aspiring Software Developer based in Burdwan, India. My interests lie in artificial intelligence, software development, and innovative technology solutions. With a passion for coding and problem-solving, I aim to create impactful projects that bridge technology and real-world needs.
-
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-
-
 # 👋 Hi there!  
 I'm **Saptorshi Mukherjee**—a passionate **tech enthusiast** with a knack for solving problems and creating innovative solutions. With a background in **Computer Science and Engineering (IoT)**, I thrive in the exciting world of **coding**, **AI**, and **smart technologies**.  
 
 ---
 
+![Tech Enthusiast GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+---
 
 ### 🎯 **Who I Am**  
 - A **tech innovator** based in **Burdwan, India**.  
@@ -22,7 +15,7 @@ I'm **Saptorshi Mukherjee**—a passionate **tech enthusiast** with a knack for 
 ---
 
 ### 💼 **What I Do Best**  
-- **💻 Code Wizardry**: Expert in **Java**, **Python**, **C**, and **CSS**.  
+- **💻 Code Wizardry**: Expert in **Java**, **Python**, **C**, **HTML**, and **CSS**.  
 - **🧠 Problem-Solver**: Tackles challenges head-on with innovative solutions.  
 - **🤝 Team Leader**: Leads projects to success through collaboration and determination.  
 
@@ -39,10 +32,14 @@ I'm **Saptorshi Mukherjee**—a passionate **tech enthusiast** with a knack for 
 
 | **Category**         | **Tools**                                                                                  |
 |-----------------------|-------------------------------------------------------------------------------------------|
-| **Languages**         | ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-grey?logo=c&logoColor=white) |
-| **Web Technologies**  | ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)                  |
+| **Languages**         | ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-grey?logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) |
+| **Web Technologies**  | ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) |
 | **AI & Data Science** | ![GPT](https://img.shields.io/badge/GPT-GenerativeAI-green)                               |
 | **Tools & Platforms** | ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?logo=databricks&logoColor=white) |
+
+---
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
@@ -59,13 +56,17 @@ I combine **technical expertise** with a **positive attitude** to lead teams, so
 
 Let’s connect and create something extraordinary together! 🌈  
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaptorshiMukherjee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaptorshiMukherjee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaptorshiMukherjee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaptorshiMukherjee&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaptorshiMukherjee&theme=light&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaptorshiMukherjee&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saptorshimukherjee)  -->
 
+### 🌐 **Socials**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saptorshimukherjee)  
+📧 **Email**: saptorshimukherjee.official@gmail.com
