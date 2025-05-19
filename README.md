@@ -126,7 +126,6 @@ I blend **technical skills** and a **positive attitude** to lead, create, and in
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saptorshimukherjee)  
 📧 **Email**: saptorshimukherjee.official@gmail.com  
-📱 **Phone**: +91 9064738212  
 🌍 **GitHub**: [github.com/SaptorshiMukherjee](https://github.com/SaptorshiMukherjee)  
 📄 **Resume**: [flowcv.com/resume/ujsoesklsku1](https://flowcv.com/resume/ujsoesklsku1)  
 
